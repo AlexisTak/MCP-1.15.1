@@ -1,0 +1,15 @@
+[23:14:34] [Render thread/ERROR]: Can't find the resource index file: assets\indexes\1.15.json
+[23:14:34] [Render thread/INFO]: Setting user: Dev-Sweet
+[23:14:42] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[23:14:43] [Render thread/ERROR]: Couldn't set icon
+java.io.FileNotFoundException: icons/icon_16x16.png
+	at net.minecraft.resources.VanillaPack.getResourceStream(VanillaPack.java:88) ~[main/:?]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:376) [main/:?]
+	at net.minecraft.client.main.Main.main(Main.java:140) [main/:?]
+	at mcp.client.Start.main(Start.java:17) [main/:?]
+[23:14:46] [Render thread/WARN]: ERROR : Couldn't load Narrator library : Unable to load library 'SAPIWrapper_x64': Can't obtain InputStream for win32-x86-64/SAPIWrapper_x64.dll
+ERROR : Couldn't load Narrator library : Unable to load library 'SAPIWrapper_x86': Can't obtain InputStream for win32-x86-64/SAPIWrapper_x86.dll
+
+[23:14:46] [Render thread/INFO]: Reloading ResourceManager: Default
+[23:14:49] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[23:14:55] [Render thread/INFO]: Stopping!
